@@ -1,0 +1,5 @@
+You can generate the Fibonacci series in Python using loops (iterative) or recursion; the 
+iterative method with a while or for loop is generally more efficient for larger numbers, 
+while recursion offers a clean mathematical representation but can be slow due to repeated 
+calculations, with memoization being a key optimization for recursion. The basic idea involves
+starting with 0 and 1, then adding the previous two numbers to get the next. 
